@@ -1,2 +1,1 @@
-# botcityautomacao
- Automação com Botcity
+# Este é um Projeto de Automação com Botcity que eu desenvolvi para uma Farmácia, pois eles precisavam de um projeto que enviava as Promoções diárias deles, e logo em seguida dispara a mídia de promoção, endereço do site da Loja, mp4, etic, esta automação pega como exemplo uma lista de contatos, ou grupos de whatsap.
